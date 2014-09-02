@@ -75,7 +75,7 @@ body {
 }
 .bs-docs-nav .navbar-nav>li>a:hover,.bs-docs-nav .navbar-nav>.active>a,.bs-docs-nav .navbar-nav>.active>a:hover {
 	color:#463265;
-	background-color:#f9f9f9
+	background-color:#7DEBFF
 }
 .bs-docs-nav .navbar-toggle .icon-bar {
 	background-color:#37bbeb
@@ -84,8 +84,8 @@ body {
 	border-color:#fff
 }
 .bs-docs-nav .navbar-header .navbar-toggle:hover,.bs-docs-nav .navbar-header .navbar-toggle:focus {
-	background-color:#f9f9f9;
-	border-color:#f9f9f9
+	background-color:#7DEBFF;
+	border-color:#7DEBFF
 }
 .bs-docs-footer {
 	padding-top:40px;
@@ -584,7 +584,7 @@ h1[id] {
 	background-color:#e5e1ea
 }
 .color-swatches .bs-gray {
-	background-color:#f9f9f9
+	background-color:#7DEBFF
 }
 .bs-team .team-member {
 	line-height:32px;
@@ -801,7 +801,7 @@ classes p {
 }
 .bs-example-popover {
 	padding-bottom:24px;
-	background-color:#f9f9f9
+	background-color:#7DEBFF
 }
 .bs-example-popover .popover {
 	position:relative;
@@ -861,7 +861,7 @@ classes p {
 }
 .responsive-utilities td.is-hidden {
 	color:#ccc;
-	background-color:#f9f9f9!important
+	background-color:#7DEBFF!important
 }
 .responsive-utilities-test {
 	margin-top:5px
@@ -903,7 +903,7 @@ classes p {
 	font-size:10px;
 	line-height:1.4;
 	text-align:center;
-	background-color:#f9f9f9;
+	background-color:#7DEBFF;
 	border:1px solid #fff
 }
 .bs-glyphicons .glyphicon {
@@ -1011,7 +1011,7 @@ classes p {
 	margin-bottom:15px;
 	overflow:hidden;
 	color:#37bbeb;
-	background-color:#f9f9f9;
+	background-color:#7DEBFF;
 	border-radius:4px
 }
 .bs-brand-item {

@@ -1,5 +1,6 @@
 <?php $SUBTITLE="世界介绍" ?>
 <?php include('headers.inc.html.php'); ?>
+<?php $SUBINDEX=1 ?>
 <?php include('nav.inc.html.php'); ?>
 		<main class="bs-docs-masthead" id="content" role="main">
 		<div class="container">

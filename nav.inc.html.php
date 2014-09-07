@@ -9,16 +9,16 @@
 				</div>
 				<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
 					<ul class="nav navbar-nav">
-						<li class="active">
+						<li<?php if($SUBINDEX==0) echo ' class="active"' ?>>
 							<a href="index.php" target="_top">服务器简介</a>
 						</li>
-						<li>
+						<li<?php if($SUBINDEX==1) echo ' class="active"' ?>>
 							<a href="intro.php" target="_top">世界介绍</a>
 						</li>
-						<li>
+						<li<?php if($SUBINDEX==2) echo ' class="active"' ?>>
 							<a href="rule.php" target="_top">入住须知</a>
 						</li>
-						<li>
+						<li<?php if($SUBINDEX==3) echo ' class="active"' ?>>
 							<a href="map.php" target="_top">实况地图</a>
 						</li>
 					</ul>

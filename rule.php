@@ -1,5 +1,6 @@
 <?php $SUBTITLE="服务器简介" ?>
 <?php include('headers.inc.html.php'); ?>
+<?php $SUBINDEX=2 ?>
 <?php include('nav.inc.html.php'); ?>
 		<div class="bs-docs-featurette">
 			<div class="container">

@@ -8,7 +8,7 @@
 					<div class="col-sm-4">
 						<img src="img/zjy.jpg" alt="联系方式" class="img-responsive">
 						<h3>联系方式</h3>
-						<p>张嘉益手机 QQ群：</p>
+						<p><a href="mailto:shiraihii@yahoo.co.jp" target="_blank"></a></p>
 					</div>
 					<div class="col-sm-4">
 						<img src="img/zjy.jpg" alt="注意事项" class="img-responsive">

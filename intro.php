@@ -13,7 +13,8 @@
 				<ol class="carousel-indicators">
 					<li class="" data-target="#carousel-example-generic" data-slide-to="0"></li>
 					<li class="" data-target="#carousel-example-generic" data-slide-to="1"></li>
-					<li class="active" data-target="#carousel-example-generic" data-slide-to="2"></li>
+					<li class="" data-target="#carousel-example-generic" data-slide-to="2"></li>
+					<li class="active" data-target="#carousel-example-generic" data-slide-to="3"></li>
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item">

@@ -4,10 +4,8 @@
 <?php include('nav.inc.html.php'); ?>
 		<main class="bs-docs-masthead" id="content" role="main">
 		<div class="container">
-			<p class="lead">世界之间通过传送门传送</p>
 			<p class="lead">
 			</p>
-			<p class="version">传送插件MultiVerse</p>
 		</div>
 
 		<div class="container">
@@ -24,8 +22,11 @@
 					<div class="item">
 						<img src="img/game/2.png" alt="Second slide">
 					</div>
-					<div class="item active">
+					<div class="item">
 						<img src="img/game/3.png" alt="Third slide">
+					</div>
+					<div class="item active">
+						<img src="img/game/4.png" alt="Forth slide">
 					</div>
 				</div>
 				<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">

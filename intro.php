@@ -27,7 +27,7 @@
 					<div class="item">
 						<img src="img/game/3.png" alt="Third slide">
 					</div>
-					<div class="item active">
+					<div class="item">
 						<img src="img/game/4.png" alt="Forth slide">
 					</div>
 					<div class="item active">

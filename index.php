@@ -7,7 +7,9 @@
 			<p class="lead">FZ第二人生部的服务器是一个奇怪的服务器，张嘉益(MinecraftID:IDOType)是法人代表，有问题找张嘉益，不要找shiraihii</p>
 			<p class="lead">
 			</p>
-			<p class="version">当前版本1.6.4</p>
+			<p class="lead">客户端下载</p>
+			<p class="lead"><a href="./release/164FZTWI.rar">Windows_1.6.4暮色版rev-alpha.rar</a></p>
+			<p><a href="./release/164FCTWIlinux_with_lib.tar">Linux_1.6.4暮色版rev-alpha.tar</a></p>
 		</div>
 		</main>
 		<div class="bs-docs-featurette">
